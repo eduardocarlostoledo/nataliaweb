@@ -45,8 +45,7 @@ const Starships = () => {
 
   return (
     <div>
-      <Table columns={columns} data={data.results.slice(0, (data.results.length + 1)
-)} /* :D */ />
+      Aca va el registro de usuarios!
     </div>
   );
 };
